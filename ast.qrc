@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>bettapx.png</file>
+  </qresource>
+</RCC>
