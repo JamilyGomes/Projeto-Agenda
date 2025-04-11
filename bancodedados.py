@@ -334,3 +334,5 @@ def atualizar_foto_usuario(usuario_id, foto_data):
 if __name__ == "__main__":
     criar_tabela_usuarios()
     criar_tabela_contatos()
+
+    

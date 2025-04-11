@@ -7,6 +7,8 @@ from PySide6.QtWidgets import (QApplication, QMainWindow, QLabel, QLineEdit,
  
 from bancodedados import autenticar_usuario
 from contatos import Ui_Form
+
+
  
 class Ui_Tela_Login(QWidget):
     def __init__(self):
@@ -236,3 +238,5 @@ if __name__ == "__main__":
     main_window = TelaLogin()
     main_window.show()
     sys.exit(app.exec())
+
+    
